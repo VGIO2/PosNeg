@@ -1,7 +1,7 @@
 # PosNeg
 Ejercicio-7
 
-Inicio: Diff 21
+Inicio: PosNeg
 
 ## Ingreso datos
 - a
@@ -11,9 +11,10 @@ Inicio: Diff 21
 ## Proceso
 
 - Si negative es verdadero
-  - si (a < 0) y (b < 0)
+  - si (a >0) y (b >0)
+     mostrar 0
+  - de lo contrario 
      mostrar 1
-  - 
     
     
 
